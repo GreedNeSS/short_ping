@@ -1,0 +1,11 @@
+{
+  "name": "short_infinity_ping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GreeD",
+  "license": "ISC"
+}
